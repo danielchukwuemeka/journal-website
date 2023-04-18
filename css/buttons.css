@@ -1,0 +1,280 @@
+/* ------ buttons
+-----------------------------------------------*/
+
+.btn_icons {
+float:left;
+display:inline-block;
+height:36px;
+line-height:36px;
+padding:0 10px 0 40px;
+background:url(../images/white.jpg) repeat-x;
+color:#999;
+font-weight:bold;
+font-size:13px;
+text-shadow:0 1px 0 #fff;
+position:relative;
+border:1px solid #DFDFDF;
+margin:0 8px 8px 0;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+}
+
+.btn_icons:hover {
+border-color:#cacaca;
+background:url(../images/white.jpg) repeat-x;
+text-decoration:none;
+box-shadow:1px 2px;
+}
+
+.btn_icons span {
+display:block;
+position:absolute;
+top:6px;
+left:9px;
+width:24px;
+height:24px;
+background-repeat:no-repeat;
+background-position:center;
+}
+
+.btn_icons.activity span {
+background-image:url(../images/icons/activity.png);
+}
+
+.btn_icons.activitya span {
+background-image:url(../images/icons/activityadd.png);
+}
+
+.btn_icons.activityd span {
+background-image:url(../images/icons/activitydelete.png);
+}
+
+.btn_icons.activityw span {
+background-image:url(../images/icons/activitywarn.png);
+}
+
+.btn_icons.add span {
+background-image:url(../images/icons/add.png);
+}
+
+.btn_icons.address span {
+background-image:url(../images/icons/activity.png);
+}
+
+.btn_icons.addressd span {
+background-image:url(../images/icons/addressdelete.png);
+}
+
+.btn_icons.addressa span {
+background-image:url(../images/icons/adressadd.png);
+}
+
+.btn_icons.addresss span {
+background-image:url(../images/icons/addresssearch.png);
+}
+
+
+.btn_icons.booka span {
+background-image:url(../images/icons/bookadd.png);
+}
+
+.btn_icons.bookd span {
+background-image:url(../images/icons/bookdelete.png);
+}
+
+.btn_icons.books span {
+background-image:url(../images/icons/booksearch.png);
+}
+
+.btn_icons.activity span {
+background-image:url(../images/icons/activity.png);
+}
+
+.btn_icons.bulb span {
+background-image:url(../images/icons/bulb.png);
+}
+
+.btn_icons.fav span {
+background-image:url(../images/icons/fav.png);
+}
+
+.btn_icons.chart span {
+background-image:url(../images/icons/chart.png);
+}
+
+.btn_icons.activity span {
+background-image:url(../images/icons/activity.png);
+}
+
+.btn_icons.comment span {
+background-image:url(../images/icons/comment.png);
+}
+
+.btn_icons.commenta span {
+background-image:url(../images/icons/commentadd.png);
+}
+
+.btn_icons.commentua span {
+background-image:url(../images/icons/commentuseradd.png);
+}
+
+.btn_icons.commentud span {
+background-image:url(../images/icons/commentuserdelete.png);
+}
+
+.btn_icons.commentus span {
+background-image:url(../images/icons/commentusersearch.png);
+}
+
+.btn_icons.delete span {
+background-image:url(../images/icons/delete.png);
+}
+
+.btn_icons.edit span {
+background-image:url(../images/icons/edit.png);
+}
+
+.btn_icons.email span {
+background-image:url(../images/icons/email.png);
+}
+
+.btn_icons.emaila span {
+background-image:url(../images/icons/emailadd.png);
+}
+
+.btn_icons.emaild span {
+background-image:url(../images/icons/emaildelete.png);
+}
+
+.btn_icons.folder span {
+background-image:url(../images/icons/folder.png);
+}
+
+.btn_icons.foldera span {
+background-image:url(../images/icons/folderadd.png);
+}
+
+.btn_icons.folderd span {
+background-image:url(../images/icons/folderdelete.png);
+}
+
+.btn_icons.info span {
+background-image:url(../images/icons/info.png);
+}
+
+.btn_icons.lock span {
+background-image:url(../images/icons/lock.png);
+}
+
+.btn_icons.unlock span {
+background-image:url(../images/icons/lockopen.png);
+}
+
+.btn_icons.page span {
+background-image:url(../images/icons/page.png);
+}
+
+.btn_icons.pagea span {
+background-image:url(../images/icons/pageadd.png);
+}
+
+.btn_icons.paged span {
+background-image:url(../images/icons/pagedelete.png);
+}
+
+.btn_icons.rss span {
+background-image:url(../images/icons/rss.png);
+}
+
+.btn_icons.search span {
+background-image:url(../images/icons/search.png);
+}
+
+.btn_icons.time span {
+background-image:url(../images/icons/time.png);
+}
+
+.btn_icons.user span {
+background-image:url(../images/icons/user.png);
+}
+
+.btn_icons.usera span {
+background-image:url(../images/icons/useradd.png);
+}
+
+.btn_icons.userd span {
+background-image:url(../images/icons/userdelete.png);
+}
+
+.btn_icons.users span {
+background-image:url(../images/icons/usersearch.png);
+}
+
+
+.btn_icons.useri span {
+background-image:url(../images/icons/userinfo.png);
+}
+
+.btn_icons.warn span {
+background-image:url(../images/icons/warning.png);
+}
+
+
+.btn_icons.pdf span {
+background-image:url(../images/icons/pdf_Icon.png);
+}
+
+
+
+.btn_icons.scholar span {
+background-image:url(../images/icons/scholar_Icon.png);
+}
+
+
+.btn_icons.epub span {
+background-image:url(../images/icons/epub.png);
+}
+
+
+.btn_icons.fpdf span {
+background-image:url(../images/icons/fpdf.png);
+}
+
+
+.btn_icons.fpdfonline span {
+background-image:url(../images/icons/fpdfonline.png);
+}
+
+
+.btn_icons.xml span {
+background-image:url(../images/icons/xml.png);
+}
+
+
+
+.btn_icons.epubreader span {
+background-image:url(../images/icons/epubreader.png);
+}
+
+
+
+.btn_icons.rar-icon span {
+background-image:url(../images/icons/rar-icon.png);
+}
+
+
+.btn_icons.book span {
+background-image:url(../images/icons/fav.png);
+}
+
+
+
+.btn_icons.audio span {
+background-image:url(../images/icons/audio.png);
+}
+
+
+.btn_icons.sendmail span {
+background-image:url(../images/icons/sendmail.png);
+}

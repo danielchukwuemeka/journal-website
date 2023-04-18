@@ -1,0 +1,23 @@
+/**
+ * BOOTSTRAP OVERRIDES
+ */
+.btn{
+	font-size: 14px;
+	border: 0 !important;
+	outline: none !important;
+	line-height: 42px;
+	padding: 0 18px;
+}
+.btn-default{
+	background-color: #dee1e4;
+}
+.btn-default:hover{
+	background-color: #dee1e4;
+}
+.btn + .btn{
+	margin-left: 10px;
+}
+.form-control:focus{
+	box-shadow: none !important;
+	/*border-color: #cf2f41;*/
+}

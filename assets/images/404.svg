@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="157px" height="190px" viewBox="0 0 157 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>404</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.100000001" stroke-linejoin="round">
+        <g id="404" transform="translate(-82.000000, -65.000000)" stroke-width="5">
+            <g transform="translate(85.000000, 68.000000)">
+                <polyline id="Stroke-2343" stroke="#444444" points="110.673611 174.023179 110.673611 143.795003 140.993056 143.795003"></polyline>
+                <polygon id="Stroke-2345" stroke="#444444" points="100.666667 184 0 184 0 0 151 0 151 133.818182"></polygon>
+                <path d="M51.7764266,54 L35,70.7764266" id="Stroke-730" stroke="#444444"></path>
+                <path d="M51.7764266,70.7764266 L35,54" id="Stroke-731" stroke="#444444"></path>
+                <path d="M114.776427,54 L98,70.7764266" id="Stroke-730" stroke="#444444"></path>
+                <path d="M114.776427,70.7764266 L98,54" id="Stroke-731" stroke="#444444"></path>
+                <path d="M51.5242633,107.5 L98.7196105,107.5" id="Line" stroke="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

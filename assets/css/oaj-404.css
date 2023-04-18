@@ -1,0 +1,18 @@
+.oaj-404-container{
+	display: table;
+	width: 100vw;
+	height: 100vh;
+}
+.oaj-404-container > .oaj-404-box{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.oaj-404-container > .oaj-404-box img{
+	max-height: 140px;
+}
+.oaj-404-container > .oaj-404-box h4{
+	font-size: 24px;
+	margin: 30px 0;
+	font-weight: 100;
+}
